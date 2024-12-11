@@ -2,6 +2,8 @@
 .env
 node_modules
 
+tmp/main
+
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
 *.a
@@ -11,7 +13,7 @@ node_modules
 _obj
 _test
 vendor/
-tmp/main
+
 
 # logs
 *.log
